@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-05-26T13:55:17Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Customised arduino"
+        },
+        "Owner": "K C <kcforlinks@gmail.com>",
+        "Size": {
+            "X": 80.000172,
+            "Y": 50.000172
+        }
+    }
+}
