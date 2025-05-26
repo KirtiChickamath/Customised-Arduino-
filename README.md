@@ -11,11 +11,6 @@ It was developed as part of a course I took from Internshala.
 **Tutorial Reference:**  
 This project was developed as part of a course from [Internshala](https://internshala.com/).
 
-**Design Files:**  
-- [Schematic]
-- [PCB Layout] 
-- [3D Model]
-
 ## Features
 
 - Powered by a 7805 voltage regulator converting 12V to 5V  
@@ -34,17 +29,18 @@ This project was developed as part of a course from [Internshala](https://intern
 
 ## Images
 
-
 ### Schematic
 
-!Schematic/Schematic.png
+![Schematic](https://github.com/user-attachments/assets/e7da52d5-7a1a-4905-8324-90ac91e43823)
+
 
 ### PCB Layout
 
-!PCB Layout/Layout.png
+![Layout](https://github.com/user-attachments/assets/032a7324-a3cc-45f3-9518-8122f3012f0d)
 
 ## Credits
 
 This project was developed as part of a course from [Internshala](https://internshala.com/).  
+
 All credit goes to the course instructors and materials that guided this work.
 
