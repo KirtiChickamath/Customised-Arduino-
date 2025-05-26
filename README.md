@@ -25,7 +25,7 @@ This project was developed as part of a course from [Internshala](https://intern
 - `PCB Layout/Customised arduino.brd` — PCB design layout  
 - `CAM Outputs/Gerber Files` — Manufacturing files for PCB fabrication  
 - `BOM` — Bill of Materials listing all components   
-- `Images/` — Board photos and design previews  
+- `Images` — Board photos and design previews  
 
 ## Images
 
