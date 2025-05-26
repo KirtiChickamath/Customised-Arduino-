@@ -26,10 +26,10 @@ This project was developed as part of a course from [Internshala](https://intern
 
 ## Project Files
 
-- `Schematics/` — Circuit diagrams  
-- `PCB Layout/` — PCB design layout  
-- `Gerber/` — Manufacturing files for PCB fabrication  
-- `BOM/` — Bill of Materials listing all components   
+- `Schematic/Customised arduino.sch` — Circuit diagrams  
+- `PCB Layout/Customised arduino.brd` — PCB design layout  
+- `CAM Outputs/Gerber Files` — Manufacturing files for PCB fabrication  
+- `BOM` — Bill of Materials listing all components   
 - `Images/` — Board photos and design previews  
 
 ## Images
@@ -37,11 +37,11 @@ This project was developed as part of a course from [Internshala](https://intern
 
 ### Schematic
 
-!
+!Schematic/Schematic.png
 
 ### PCB Layout
 
-!
+!PCB Layout/Layout.png
 
 ## Credits
 
