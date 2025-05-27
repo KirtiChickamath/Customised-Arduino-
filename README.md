@@ -21,12 +21,14 @@ This project was developed as part of a course from [Internshala](https://intern
 
 ## Project Files
 
-- `Schematic/Customised arduino.sch` — Circuit diagrams  
-- `PCB Layout/Customised arduino.brd` — PCB design layout  
+- `Schematic` — Circuit diagrams  
+- `PCB Layout` — PCB design layout  
 - `CAM Outputs/Gerber Files` — Manufacturing files for PCB fabrication  
 - `BOM` — Bill of Materials listing all components   
 - `Images` — Board photos and design previews  
-- `Libraries` — Libraries were provided by mentor 
+- `Libraries` — Libraries were provided by mentor
+
+  
 ## Images
 
 ### Schematic
