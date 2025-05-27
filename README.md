@@ -6,7 +6,7 @@ It was developed as part of a course I took from Internshala.
 
 **Project Name:** Customised Arduino
 
-**Software Used:**  - Altium Designer
+**Software Used:** Eagle 
 
 **Tutorial Reference:**  
 This project was developed as part of a course from [Internshala](https://internshala.com/).
