@@ -21,12 +21,12 @@ This project was developed as part of a course from [Internshala](https://intern
 
 ## Project Files
 
-- `Schematic` — Circuit diagrams  
-- `PCB Layout` — PCB design layout  
-- `CAM Outputs/Gerber Files` — Manufacturing files for PCB fabrication  
-- `BOM` — Bill of Materials listing all components   
-- `Images` — Board photos and design previews  
-- `Libraries` — Libraries were provided by mentor
+- `Schematic` -- Circuit diagrams  
+- `PCB Layout` -- PCB design layout  
+- `CAM Outputs` -- Manufacturing files for PCB fabrication  
+- `BOM` -- Bill of Materials listing all components   
+- `Images` -- Board photos and design previews  
+- `Libraries` -- Libraries were provided by mentor
 
   
 ## Images
